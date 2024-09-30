@@ -2,7 +2,7 @@
 
 Howdy there 🤠
 
-I value simplicity over all things - reach out for all your development needs!
+I value simplicity over all things - [reach out](mailto:newman@stupidsimplecode.com) for all your development needs!
 
 I specialize in:
 - Web development (Angular, NodeJS)
